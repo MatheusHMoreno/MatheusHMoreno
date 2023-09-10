@@ -1,6 +1,6 @@
 ### Oii! Eu sou Matheus Moreno, estudante de Engenharia da Computação e entusiasta de tecnologia.
 
-- 🔭 Hoje trabalho com esdição de vídeo
+- 🔭 Hoje trabalho com edição de vídeo
 - 🌱 Estudando Java/React/Typescript
 - 😄 Pronouns: ele/dele
 
